@@ -32,6 +32,6 @@ Here is your 2025-2026 CSS board:
 **Career Advisor** - Tanzim Hossain | hossai85@uwindsor.ca  
 **Senior Representative** - Faraan Rashid | rashid23@uwindsor.ca  
 **Second Year Representative** - Joanne Hou | hou95@uwindsor.ca  
-**First Year Representatives** - Abir Hirani | hirania@uwindsor.ca, Brock Bovay | bovay@uwindsor.ca, Tharun Gopinath | gopinatt@uwindsor.ca  
+**First Year Representatives** - Chase MacLean | maclea32@uwindsor.ca, Prushti Krunalkumar Patel | patel5dc@uwindsor.ca, Cristian Argento | argento@uwindsor.ca  
 **Event Coordinators** - Abishek Bhandari | bhanda61@uwindsor.ca, Anant Kumar Singh | singh4n3@uwindsor.ca, Kaitlyn Carbonaro | carbonac@uwindsor.ca, Riley Lozon | lozonr@uwindsor.ca, Shameer Sheikh | sheikh83@uwindsor.ca  
 **Secretary** - Anika Khan | khan661@uwindsor.ca
