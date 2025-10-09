@@ -46,22 +46,24 @@ These wiki resources are maintained by student contributors. Always verify impor
 
 :::
 
-There are several computer science programs offered by the University of Windsor, each with their own course requirements which can be found in [the undergraduate calendar](https://www.uwindsor.ca/secretariat/282/undergraduate-and-graduate-calendars). If you follow the [recommended course sequence](/wiki/courses/course-planning/recommended-sequence), many programs will share the same courses for the first term. 
+There are several computer science programs offered by the University of Windsor, each with their own course requirements which can be found in [the undergraduate calendar](https://www.uwindsor.ca/secretariat/282/undergraduate-and-graduate-calendars). If you follow the [recommended course sequence](/wiki/courses/course-planning/recommended-sequence), many programs will share the same courses for the first term.
 
 ### Recommended First-Year Course Schedule
 
 **Fall Semester**
-- [COMP-1000](/wiki/courses/comp-1000/overview) – Key Concepts in Computer Science  
+
+- [COMP-1000](/wiki/courses/comp-1000/overview) – Key Concepts in Computer Science
 - [COMP-1400](/wiki/courses/comp-1400/overview) – Introduction to Programming I
 - MATH-1250 or MATH-1260 – Linear Algebra I
 - MATH-1720 or MATH-1760 – Differential Calculus
 - One elective course
 
 **Winter Semester**
-- MATH-1020 – Mathematical Foundations (*Honours CS and Honours CS SWE*)
-- MATH-1730 – Integral Calculus (*Honours CS and Honours CS SWE*)
-- COMP-1410 – Introduction to Programming II    
-- COMP-2650 – Computer Architecture I - Digital Design 
+
+- MATH-1020 – Mathematical Foundations (_Honours CS and Honours CS SWE_)
+- MATH-1730 – Integral Calculus (_Honours CS and Honours CS SWE_)
+- COMP-1410 – Introduction to Programming II
+- COMP-2650 – Computer Architecture I - Digital Design
 - One elective course
 
 See the [Courses](/wiki/courses) section for a user-friendly table of course requirements by program.
@@ -74,13 +76,14 @@ Incoming first year students typically have the earliest **appointment time** an
 Check your schedule on UWinsite before classes start! Course rooms often change last minute.
 :::
 
-
 ### Course Planning
-- [Recommended Course Sequence](https://uwindsorcss.github.io/wiki/courses/course-planning/recommended-sequence)  
-- [Undergraduate Calendar](https://www.uwindsor.ca/secretariat/282/undergraduate-and-graduate-calendars)  
+
+- [Recommended Course Sequence](https://uwindsorcss.github.io/wiki/courses/course-planning/recommended-sequence)
+- [Undergraduate Calendar](https://www.uwindsor.ca/secretariat/282/undergraduate-and-graduate-calendars)
 - [CS Academic Advising](https://www.uwindsor.ca/science/computerscience/1082/tutoring-and-academic-assistance)
 
 ---
+
 ## Recommended Software for Computer Science
 
 For a detailed guide on the recommended software for computer science students, see [Recommended Software](recommended-software.md).
@@ -90,6 +93,7 @@ For a detailed guide on the recommended software for computer science students, 
 ## Academic Success
 
 ### Study and Note-Taking Tips
+
 - Focus on understanding during lectures instead of transcribing everything.
 - Take photos of examples or handwritten notes from the board.
 - Create short summary sheets to review key ideas.
@@ -97,19 +101,21 @@ For a detailed guide on the recommended software for computer science students, 
 - Teach concepts to someone else to reinforce your understanding.
 
 ### Time Management and Balance
+
 - Use **Google Calendar** or **Notion** to organize deadlines.
 - Schedule daily study sessions and start assignments early.
 - Give yourself breaks and rest. Consistency beats cramming.
 - Attend lectures regularly — even familiar material helps reinforce learning.
 
 ### Accessibility and Support
-- **CS Tutoring:** 2nd floor of Erie/Lambton  
-- **Math Tutoring Centre (MSLC):** Erie 3120, open weekdays 12–4 PM  
-- **TA / GA Office Hours:** Posted on Brightspace  
-- **Professor Office Hours:** See your syllabus  
+
+- **CS Tutoring:** 2nd floor of Erie/Lambton
+- **Math Tutoring Centre (MSLC):** Erie 3120, open weekdays 12–4 PM
+- **TA / GA Office Hours:** Posted on Brightspace
+- **Professor Office Hours:** See your syllabus
 - **Student Accessibility Services:** [sas@uwindsor.ca](mailto:sas@uwindsor.ca)
 
-:::important 
+:::important
 Avoid relying on AI tools for coding in your first two years. They are not allowed in exams or technical interviews and prevent you from learning essential problem-solving and debugging skills.
 :::
 
@@ -118,70 +124,81 @@ Avoid relying on AI tools for coding in your first two years. They are not allow
 ## Community and Involvement
 
 ### Join the CSS Community
-- [CSS Discord](https://discord.uwindsorcss.ca) – Course help and student discussions  
-- [CSS Wiki](https://uwindsorcss.github.io/wiki) – Guides, planning, and career prep  
+
+- [CSS Discord](https://discord.uwindsorcss.ca) – Course help and student discussions
+- [CSS Wiki](https://uwindsorcss.github.io/wiki) – Guides, planning, and career prep
 - [CSS GitHub](https://github.com/uwindsorcss) – Open-source student projects
 
 ### Clubs and Groups
+
 **On Campus**
-- Google Developer Group (GDG) on Campus  
-- Competitive Programming Club ([Discord](https://discord.gg/g5Xwk476))  
-- Women in CS  
-- Women in Cybersecurity  
+
+- Google Developer Group (GDG) on Campus
+- Competitive Programming Club ([Discord](https://discord.gg/g5Xwk476))
+- Women in CS
+- Women in Cybersecurity
 
 **Off Campus**
-- GDG Windsor-Essex  
-- Hackforge  
-- WeTech  
+
+- GDG Windsor-Essex
+- Hackforge
+- WeTech
 
 ### Events and Hackathons
-- **WinHacks** (hosted by CSS) – [winhacks.ca](https://winhacks.ca)  
-- **Hack the North**  
-- **CUSEC** – Canadian University Software Engineering Conference  
-- **ElleHacks** – For women and non-binary participants   
+
+- **WinHacks** (hosted by CSS) – [winhacks.ca](https://winhacks.ca)
+- **Hack the North**
+- **CUSEC** – Canadian University Software Engineering Conference
+- **ElleHacks** – For women and non-binary participants
 
 ---
 
 ## Career and Growth
 
 ### Why Start Early
+
 Computer Science is competitive, start exploring opportunities early to gain experience and stand out.
 
 ### Steps to Prepare
-- **Internships and Co-ops:** Paid experience that builds your resume.  
-- **Extracurriculars:** Clubs and hackathons help you network and learn.  
-- **Projects and Portfolio:** Build a GitHub profile to showcase your work.  
-- **Technical Practice:** Use [LeetCode](https://leetcode.com/problem-list/oizxjoit/) and [NeetCode](https://neetcode.io/roadmap).  
-- **Explore Platforms:**  
-   - [Kaggle](https://www.kaggle.com) – Data science challenges  
-   - [Riipen](https://www.riipen.com) – Paid experiential projects  
-   - [MLH Hackathons](https://mlh.io) – Global hackathon listings  
+
+- **Internships and Co-ops:** Paid experience that builds your resume.
+- **Extracurriculars:** Clubs and hackathons help you network and learn.
+- **Projects and Portfolio:** Build a GitHub profile to showcase your work.
+- **Technical Practice:** Use [LeetCode](https://leetcode.com/problem-list/oizxjoit/) and [NeetCode](https://neetcode.io/roadmap).
+- **Explore Platforms:**
+    - [Kaggle](https://www.kaggle.com) – Data science challenges
+    - [Riipen](https://www.riipen.com) – Paid experiential projects
+    - [MLH Hackathons](https://mlh.io) – Global hackathon listings
 
 ---
 
 ## Recommended Resources
 
 ### Programming (COMP-1400 / 1410 / 2120)
-- [Neso Academy](https://www.youtube.com/@NesoAcademy) – Video tutorials  
-- [C++ Reference](https://en.cppreference.com) – Official documentation  
+
+- [Neso Academy](https://www.youtube.com/@NesoAcademy) – Video tutorials
+- [C++ Reference](https://en.cppreference.com) – Official documentation
 
 ### Computer Architecture (COMP-2650)
-- [All About Electronics](https://www.youtube.com/@AllAboutElectronics) – Architecture basics  
+
+- [All About Electronics](https://www.youtube.com/@AllAboutElectronics) – Architecture basics
 
 ### Math Courses
-- **Linear Algebra (MATH-1250 / 1260):**  
-  - [Khan Academy](https://www.khanacademy.org/math/linear-algebra)  
-  - [MIT OpenCourseWare: Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)  
-  - [3Blue1Brown – Essence of Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra)
-- **Mathematical Foundations (MATH-1020):**  
-  - Math Turtle Foundations Playlist by Prof. Justin Lariviere  
-- **Calculus (MATH-1720 / 1760 / 1730):**  
-  - Tricks for memorizing trig and inverse trig derivatives/integrals  
+
+- **Linear Algebra (MATH-1250 / 1260):**
+    - [Khan Academy](https://www.khanacademy.org/math/linear-algebra)
+    - [MIT OpenCourseWare: Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
+    - [3Blue1Brown – Essence of Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra)
+- **Mathematical Foundations (MATH-1020):**
+    - Math Turtle Foundations Playlist by Prof. Justin Lariviere
+- **Calculus (MATH-1720 / 1760 / 1730):**
+    - Tricks for memorizing trig and inverse trig derivatives/integrals
 
 ### Study and Productivity Tools
-- Google Calendar – Scheduling and reminders  
-- Notion – Notes, planning, and organizing  
-- OneNote / Evernote / Notability – Note-taking  
-- Symbolab – Math problem solver and calculator  
+
+- Google Calendar – Scheduling and reminders
+- Notion – Notes, planning, and organizing
+- OneNote / Evernote / Notability – Note-taking
+- Symbolab – Math problem solver and calculator
 
 For more curated resources, see the CSS Resource Guide.
